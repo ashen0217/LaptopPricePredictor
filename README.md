@@ -2,6 +2,8 @@
 
 A machine learning web application that predicts laptop prices based on various specifications and features. This project consists of two main components: a model training pipeline and a web interface for making predictions.
 
+![Application Screenshot](Capture.PNG)
+
 ## Project Structure
 
 ```
